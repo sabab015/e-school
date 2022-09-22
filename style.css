@@ -1,5 +1,5 @@
 .container {
-    margin-top: 25px;
+    padding-top: 25px;
 }
 
 .slide{
@@ -7,6 +7,9 @@
 }
 .upper-slide{
     background-color: #F0FFF0;
+}
+.upper{
+    font-family: 'Poppins';
 }
 .sign-in{
     background-color: #21B573;
