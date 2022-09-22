@@ -2,7 +2,35 @@
     margin-top: 25px;
 }
 
-
+.slide{
+    margin-top: 50px;   
+}
+.upper-slide{
+    background-color: #F0FFF0;
+}
+.sign-in{
+    background-color: #21B573;
+    border-radius: 50px;
+    padding: 5px 20px;
+    margin-left: 25px;
+    border: none;
+    color: #FFFFFF;
+}
+.get-started{
+    background-color: #21B573;
+    border-radius: 50px;
+    padding: 5px 20px;
+    border: none;
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+}
 .logo{
     width: 30%;
+}
+
+.cover{
+    width: 100%;   
+}
+.left-part{
+    margin-top: 50px;
 }
