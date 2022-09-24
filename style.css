@@ -37,6 +37,20 @@
 .left-part{
     margin-top: 50px;
 }
+  
+.card{
+    box-shadow: 10px 10px 10px lightgray ;
+    background-color: #F0FFF0;
+}
+.icon{
+    border: none;
+    border-radius: 10px 10px 10px 10px white;
+    padding: 25px;
+    background-color: #F0FFF0;
+}
+
 .icon img{
-    width: 25%;
+    
+   margin: 10px;
+    width: 50%;
 }
