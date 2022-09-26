@@ -21,6 +21,7 @@
     margin-left: 25px;
     border: none;
     color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
 }
 
 .get-started {
@@ -47,6 +48,7 @@
 .card {
     box-shadow: 10px 10px 10px lightgray;
     background-color: #F0FFF0;
+    
 }
 
 .feature{
@@ -63,5 +65,34 @@
 	width: 68px;
 	height: 87px;
     margin: 0px 0px 20px;
-
+}
+.inner-feature:hover{
+    background-color: white;
+}
+.course-container img{
+    padding: 20px;
+}
+.course-container .card{
+    border-radius: 10px;
+}
+.sm-img{
+    width: 70px;
+	margin: -5px;
+}
+.desc{
+    font-size: small;
+}
+.man-img{
+    width: 50%;
+}
+.testimonial{
+    font-family: 'Poppins', sans-serif;
+    padding: 100px 100px;
+}
+.footer-low{
+    margin-top: 10px;
+    background-color: #282531;
+}
+.lower-part{
+    color: white;
 }
