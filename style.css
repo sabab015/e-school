@@ -68,6 +68,7 @@
 }
 .inner-feature:hover{
     background-color: white;
+    box-shadow: 10px 10px 10px lightgray;
 }
 .course-container img{
     padding: 20px;
